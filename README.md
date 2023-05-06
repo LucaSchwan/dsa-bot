@@ -1,5 +1,7 @@
 # DSA Discord Bot
 
+There exists an fork of this project at https://github.com/TobenderZephyr/dsabot, it exceeds what I've tried to do here by miles so check it out and please use it over this.
+
 This is a Discord Bot that can be used for the german P&PRPG "Das Schwarze Auge" or "The Dark Eye" in english. The Bot can be used to roll dice and keep track of the In-Game Money as well as the life points.
 
 # Commands
